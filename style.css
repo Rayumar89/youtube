@@ -1,0 +1,11 @@
+@media only screen and (max-width: 600px) {
+    .d-flex {
+      width: 1px;
+      position: relative;
+      left: 1200px;
+      top: -1px;
+    }
+    .main2{
+        display: flex;
+    }
+  }
